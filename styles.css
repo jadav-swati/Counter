@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-color: black;
+    color: white;
+    margin: 50px;
+  }
+  p.para {
+      margin-top: 20px;
+    display: inline-block;
+    border-bottom: 1px solid white;
+  }
+  p#texterror {
+    color:red;
+    margin-top: 20px;
+  }
+  .btn {
+    width: 180px;
+    height: 40px;
+    margin-right: 20px;
+    margin-top: 30px;
+  }
+   
+  .btn1 {
+    background-color: black;
+    color: white;
+    border: 1px solid;
+    display: none;
+  }
